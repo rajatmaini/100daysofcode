@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_operation">Insert Operation</string>
+    <string name="enter_name_to_be_inserted">Enter Name to be inserted</string>
+    <string name="insert">Insert</string>
+    <string name="insert1">Insert</string>
+    <string name="view">View</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="enter_values">Enter Values</string>
+    <string name="insert2">Insert</string>
+</resources>
